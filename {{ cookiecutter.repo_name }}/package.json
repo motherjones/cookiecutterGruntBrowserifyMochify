@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "browserify": "~6.3.2",
-    "coverify": "~1.0.6",
+    "coverify": "~1.0.7",
     "grunt": "~0.4.0rc5",
     "grunt-browserify": "~3.2.0",
     "grunt-contrib-clean": "~0.4.0rc5",
@@ -29,7 +29,7 @@
     "jsonschema": "~0.4.0",
     "less-middleware": "~0.1.9",
     "mocha": "~1.20.1",
-    "mochify": "~1.7.0",
+    "mochify": "~2.0.0",
     "normalize.css": "~3.0.1",
     "phantomjs": "~1.9.7-8"
   },
